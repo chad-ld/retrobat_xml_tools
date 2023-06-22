@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./3-D Docking Mission (19xx)(Chris Oberth).dsk</path>
+    <name>3-D Docking Mission</name>
+    <image>./images/3-D Docking Mission (19xx)(Chris Oberth)-image.png</image>
+    <video>./videos/3-D Docking Mission (19xx)(Chris Oberth)-video.mp4</video>
+    <marquee>./images/3-D Docking Mission (19xx)(Chris Oberth)-marquee.png</marquee>
+    <thumbnail>./images/3-D Docking Mission (19xx)(Chris Oberth)-thumb.png</thumbnail>
+    <boxback>./images/3-D Docking Mission (19xx)(Chris Oberth)-boxback.png</boxback>
+    <releasedate>19780101T000000</releasedate>
+    <publisher>Programma International</publisher>
+    <genre>Action</genre>
+    <md5>345e972f92cce70d8b15e5c290831994</md5>
+    <lang>en</lang>
+    <scrap name="ScreenScraper" date="20230617T150201" />
+  </game>
+  <game>
+    <path>./A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side A).dsk</path>
+    <name>A Mind Forever Voyaging</name>
+    <desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+    <image>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side A)-image.png</image>
+    <video>./videos/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side A)-video.mp4</video>
+    <marquee>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side A)-marquee.png</marquee>
+    <thumbnail>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side A)-thumb.png</thumbnail>
+    <boxback>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side A)-boxback.png</boxback>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Infocom</developer>
+    <publisher>Infocom</publisher>
+    <genre>Adventure / Text</genre>
+    <players>1</players>
+    <md5>99c80cf510356dbb50dedbafd05a2ae4</md5>
+    <lang>en</lang>
+    <scrap name="ScreenScraper" date="20230617T150201" />
+  </game>
+  <game>
+    <path>./A-E (1982)(Broderbund)[cr](Disk 1 of 1 Side A).dsk</path>
+    <name>A-E</name>
+    <image>./images/A-E (1982)(Broderbund)[cr](Disk 1 of 1 Side A)-image.png</image>
+    <video>./videos/A-E (1982)(Broderbund)[cr](Disk 1 of 1 Side A)-video.mp4</video>
+    <marquee>./images/A-E (1982)(Broderbund)[cr](Disk 1 of 1 Side A)-marquee.png</marquee>
+    <thumbnail>./images/A-E (1982)(Broderbund)[cr](Disk 1 of 1 Side A)-thumb.png</thumbnail>
+    <boxback>./images/A-E (1982)(Broderbund)[cr](Disk 1 of 1 Side A)-boxback.png</boxback>
+    <releasedate>19820101T000000</releasedate>
+    <publisher>Brøderbund Software</publisher>
+    <genre>Shoot'em Up</genre>
+    <md5>1f8a9203468e80f92dbd897fb4c1dc8a</md5>
+    <lang>en</lang>
+    <scrap name="ScreenScraper" date="20230617T150202" />
+  </game>
+ <game>
+    <path>./A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side B)[nib].nib</path>
+    <name>A Mind Forever Voyaging</name>
+    <desc>A Mind Forever Voyaging is a text-based interactive fiction game. The player reads descriptions which detail the surroundings and communicates with the game by typing in commands. Most of the time is spent in simulation mode where the player repeatedly visits the town of Rockvil and needs to record situations of everyday or special activities going on. If the player has recorded enough, the game progresses and the simulation ten years ahead can be visited. However, the recording device has no unlimited capacity - when full, the player needs to exit the simulation and let the recordings review by the project leader. Then the current simulation can be simply started again from the start to find new situations - the same applies when dying.</desc>
+    <image>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side B)[nib]-image.png</image>
+    <video>./videos/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side B)[nib]-video.mp4</video>
+    <marquee>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side B)[nib]-marquee.png</marquee>
+    <thumbnail>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side B)[nib]-thumb.png</thumbnail>
+    <boxback>./images/A Mind Forever Voyaging (1985)(Infocom)(Disk 1 of 1 Side B)[nib]-boxback.png</boxback>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Infocom</developer>
+    <publisher>Infocom</publisher>
+    <genre>Adventure / Text</genre>
+    <players>1</players>
+    <hidden>true</hidden>
+    <md5>e995e58cb2a0d12760dbae02fbd6f749</md5>
+    <lang>en</lang>
+    <scrap name="ScreenScraper" date="20230617T150201" />
+  </game>
+</gameList>
